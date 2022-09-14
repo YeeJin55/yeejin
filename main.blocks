@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Cs(eT%vg/5*%za:rm@{G" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="JN+$y6s/F|0R-3q.Xta7"><value name="text"><shadow type="text" id="UW8{D(FLQv`I:vc%Ma4x"><field name="TEXT">Hello!</field></shadow></value></block></statement></block><block type="device_forever" id="[,Z]=e(x]s1OkGj0lJF_" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="(0D~PlTWqD~es#38-9GX"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id=".-F_V#^{NdU5.i!47i4="><field name="LEDS">`
+        # # # # # 
+        . . . # . 
+        . . . # . 
+        # . . # . 
+        . # # . .
+        `</field><next><block type="device_pause" id="-oOL~b4!AP`=orn)Q)HJ"><value name="pause"><shadow type="timePicker" id=".RG*XIfbQD2.doQN!Dx4"><field name="ms">2000</field></shadow></value><next><block type="device_print_message" id="`tDHNRe-YIXDA)koGOZF"><value name="text"><shadow type="text" id="5GF_7vHL$+;K-A8#nbKW"><field name="TEXT">12YRS OLD</field></shadow></value><next><block type="device_pause" id="A0/(n1ki#z=?OkvfK9+*"><value name="pause"><shadow type="timePicker" id="{0?FTB#a+2V%Vd)/4nAP"><field name="ms">2000</field></shadow></value><next><block type="basic_show_icon" id="%!q=T$V=g`MViPdV4K^*"><field name="i">IconNames.Happy</field><next><block type="device_clear_display" id="0Qp7aI%#$**ELg_44Hxs"></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
